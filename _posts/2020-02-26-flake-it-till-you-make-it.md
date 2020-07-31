@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Exploratory Data Analysis
-subtitle: Excerpt from Soulshaping by Jeff Brown
 tags: [books, test]
 ---
 
